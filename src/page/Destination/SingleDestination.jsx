@@ -24,7 +24,7 @@ const SingleDestination = () => {
 
   return (
     <div className="container mx-auto my-8">
-      <div className="flex px-5 py-5">
+      <div className="flex px-5 py-8">
         <div className="w-1/2">
           <img className="w-full" src={pictureUrl} alt={place} />
         </div>

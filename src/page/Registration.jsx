@@ -50,7 +50,7 @@ const Registration = () => {
   };
 
   return (
-    <div className="flex items-center bg-slate-200 justify-center max-w-xl mx-auto mt-10 shadow border-b rounded-lg">
+    <div className="flex items-center bg-slate-200 justify-center max-w-xl mx-auto mt-10 mb-10 shadow border-b rounded-lg">
       <div className="px-8 py-8">
         <div className="font-thin text-2xl tracking-wider text-center">
           <h2>Register</h2>

@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const Destination = (props) => {
   return (
-    <div className="max-w-sm ml-14 rounded overflow-hidden shadow-lg">
+    <div className="max-w-sm ml-14 mb-6 rounded overflow-hidden shadow-lg">
       <img
         className="w-full h-64 object-cover"
         src={props.destination.pictureUrl}
