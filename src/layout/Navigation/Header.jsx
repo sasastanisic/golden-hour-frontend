@@ -16,7 +16,7 @@ const Header = () => {
             Destinations
           </Link>
           <Link
-            //to="/travel"
+            to="/travel"
             className="text-white font-semibold uppercase tracking-wide"
           >
             Travel
